@@ -1,0 +1,48 @@
+.background_vid{
+	background-image: url(video/lakeBanckTree.mp4)
+}
+
+/*************************(video > hieght - width)****************/
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%55;
+}
+/*************************(End video > hieght - width)****************/
+
+/*********************(Transparent search box of nav bar)************/
+
+.transparent-input{
+	background-color: rgba(0,0,0,0.1)
+}
+
+/*******************(End Transparent search box of nav bar)************/
+
+/******************(placeholder color - light)************************/
+
+/*
+.input::placeholder {
+ color: white!important;
+ opacity: 1;
+}
+*/
+ 
+
+/******************( End placeholder color - light)************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
